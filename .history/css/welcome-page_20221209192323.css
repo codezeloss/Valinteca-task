@@ -1,0 +1,16 @@
+.welcome-img {
+  width: 450px;
+  height: 315px;
+  border-radius: 10px;
+}
+
+.heading-primary {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+
+

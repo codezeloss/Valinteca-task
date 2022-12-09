@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: pink;
+}
+
+.flex-box {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.box-container {
+  margin: 0 auto;
+  background: rgba(245, 247, 255, 0.85);
+  border-radius: 10px;
+  padding: 60px;
+}
+
+.img-container {
+  height: 100%;
+}
+
+.welcome-img {
+  width: 450px;
+  height: 315px;
+  border-radius: 10px;
+}
+
+.heading-primary {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 120%;
+}
+
+.text {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #1f1249;
+}
+
+.btn {
+  width: 450px;
+  height: 60px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(113.87deg, #2663df 14.81%, #758ff0 88.76%);
+  box-shadow: 0px 6px 18px #9cadf2;
+  border-radius: 10px;
+  color: #ffffff;
+}

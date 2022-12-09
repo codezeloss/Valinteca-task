@@ -1,0 +1,9 @@
+.flex-box {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.text {
+  font-family:;
+}

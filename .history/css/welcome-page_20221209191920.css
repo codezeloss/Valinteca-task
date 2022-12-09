@@ -1,0 +1,38 @@
+.welcome-img {
+  width: 450px;
+  height: 315px;
+  border-radius: 10px;
+}
+
+.heading-primary {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #1f1249;
+  margin-bottom: 40px;
+}
+
+.btn {
+  width: 450px;
+  height: 60px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(113.87deg, #2663df 14.81%, #758ff0 88.76%);
+  box-shadow: 0px 6px 18px #9cadf2;
+  border-radius: 10px;
+  color: #ffffff;
+}

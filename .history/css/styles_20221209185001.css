@@ -1,0 +1,27 @@
+.flex-box {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.box-container {
+  background: rgba(245, 247, 255, 0.85);
+  border-radius: 10px;
+  padding: 60px;
+}
+
+.heading-primary {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 120%;
+}
+
+.text {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #1f1249;
+}

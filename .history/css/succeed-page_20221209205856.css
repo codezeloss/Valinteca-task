@@ -1,0 +1,15 @@
+.succeed-img {
+  width: 450px;
+  height: 456px;
+  border-radius: 10px;
+}
+
+.user-email {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  text-decoration-line: underline;
+  color: #1F1249;
+}

@@ -1,0 +1,46 @@
+.flexcol-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup-img {
+  width: 450px;
+  height: 536px;
+  border-radius: 10px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.form-box {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  margin-top: 40px;
+  background-color: #ffffff;
+  padding: 20px 24px;
+  border: 1px solid #dbe3ff;
+  border-radius: 10px;
+}
+
+.line {
+  width: 1px;
+  height: 20px;
+  background: #dbe3ff;
+}
+
+form {
+  margin-top: 40px;
+}
+
+form input {
+  border: none;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #3B3B3B;
+}

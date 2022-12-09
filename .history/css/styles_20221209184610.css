@@ -1,0 +1,14 @@
+.flex-box {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.heading-primary
+
+.text {
+  font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+}
